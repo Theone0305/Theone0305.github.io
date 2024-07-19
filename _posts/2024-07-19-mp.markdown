@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Erstellen eine Text in Blog"
+author: "Reis"
+header-style: text
+category: true
+tags:
+  - blog
+  - website
+---
+
+#### Mein erster Blog
+
+Mein Interesse liegt darin, neue Dinge auszuprobieren. Dies ist mein erster Text, wahrscheinlich wird er später als Tagebuch oder Wörterbuch dienen.
+
+Bis zum nächsten Mal!
