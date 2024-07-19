@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Erstellen eine Text in Blog"
+title: "Mein erster Blog"
 author: "Reis"
 header-style: text
 category: true
@@ -9,7 +9,7 @@ tags:
   - website
 ---
 
-#### Mein erster Blog
+#### Hallo Zusammen
 
 Mein Interesse liegt darin, neue Dinge auszuprobieren. Dies ist mein erster Text, wahrscheinlich wird er später als Tagebuch oder Wörterbuch dienen.
 
